@@ -1,0 +1,15 @@
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\bin\Debug\net8.0\Encryption-Exercise.exe
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\bin\Debug\net8.0\Encryption-Exercise.deps.json
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\bin\Debug\net8.0\Encryption-Exercise.runtimeconfig.json
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\bin\Debug\net8.0\Encryption-Exercise.dll
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\bin\Debug\net8.0\Encryption-Exercise.pdb
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\obj\Debug\net8.0\Encryption-Exercise.csproj.AssemblyReference.cache
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\obj\Debug\net8.0\Encryption-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\obj\Debug\net8.0\Encryption-Exercise.AssemblyInfoInputs.cache
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\obj\Debug\net8.0\Encryption-Exercise.AssemblyInfo.cs
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\obj\Debug\net8.0\Encryption-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\obj\Debug\net8.0\Encryption-Exercise.dll
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\obj\Debug\net8.0\refint\Encryption-Exercise.dll
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\obj\Debug\net8.0\Encryption-Exercise.pdb
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\obj\Debug\net8.0\Encryption-Exercise.genruntimeconfig.cache
+C:\Users\Julia\Documents\University\Assignments 3rd Semester\Encryption-Exercise\Encryption-Exercise\obj\Debug\net8.0\ref\Encryption-Exercise.dll
